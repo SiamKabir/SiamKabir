@@ -26,7 +26,6 @@ Skills: C/C++/Java/Python/Numpy/Pandas/Scikit learn/Seaborn/ JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/SiamKabir/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/SiamKabir)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SiamKabir)  
 
