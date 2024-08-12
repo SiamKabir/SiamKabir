@@ -1,5 +1,5 @@
-### Hi there 👋, my name is A K M FAZLUL KOBIR SIAM
-#### I am a Data Enthusiast👨‍💻
+### Hi there 👋, A K M FAZLUL KOBIR SIAM
+#### Data Enthusiast👨‍💻
 ![I am a Data Enthusiast👨‍💻](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 Learning & Share!
